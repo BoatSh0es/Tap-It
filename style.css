@@ -2,12 +2,13 @@
 	margin: 0px;
 	padding: 0px;
 	box-sizing: border-box;
+	color: whitesmoke;
 }
 
 body {
 	font-family: 'Muli', sans-serif;
 	text-align: center;
-	background-color: #F5F5F5;
+	background-color: black;
 }
 
 .app {
